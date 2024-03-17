@@ -50,8 +50,8 @@ cv2.destroyAllWindows()
 </td>
 <td>
   
-#### Output:
-### Input Grayscale Image and Color Image
+## Output:
+#### Input Grayscale Image and Color Image
 ![Screenshot 2024-03-17 113107](https://github.com/Jenishajustin/Histogram-of-an-images/assets/119405070/d774eacf-3acb-486f-b420-ff7a82e39231)
 
 ![Screenshot 2024-03-17 113124](https://github.com/Jenishajustin/Histogram-of-an-images/assets/119405070/27b6383c-56ec-4376-b774-362954df009f)
@@ -64,7 +64,7 @@ cv2.destroyAllWindows()
 <tr>
   <td width=50%>
 
-### Histogram of Grayscale image and any color image
+#### Histogram of Grayscale image and any color image
 ```python
 import numpy as np
 import cv2
@@ -94,12 +94,12 @@ cv2.waitKey(0)
 </td>
 <td>
 
-### Output:
+## Output:
 #### Histogram of Grayscale image and any color image
-### Grayscale image
+##### Grayscale image
 ![Screenshot 2024-03-17 112259](https://github.com/Jenishajustin/Histogram-of-an-images/assets/119405070/7954cc3f-af27-454f-9f91-48336cfdee6c)
 
-### Color image
+##### Color image
 ![Screenshot 2024-03-17 112314](https://github.com/Jenishajustin/Histogram-of-an-images/assets/119405070/458b7dd5-293f-456a-9e7c-dfb68d7b8de7)
 
 </td>
@@ -110,7 +110,7 @@ cv2.waitKey(0)
 <tr>
   <td width=50%>
 
-### Histogram Equalization of Grayscale Image.
+#### Histogram Equalization of Grayscale Image.
 ```python
 import cv2
 gray_image = cv2.imread("gray.jpg",0)
@@ -123,8 +123,8 @@ cv2.destroyAllWindows()
 </td>
 <td>
   
-### Output:
-### Histogram Equalization of Grayscale Image.
+## Output:
+#### Histogram Equalization of Grayscale Image.
 ![Screenshot 2024-03-17 113341](https://github.com/Jenishajustin/Histogram-of-an-images/assets/119405070/c6308564-eb4f-4831-9ff2-9a013f7e6bcf)
 
 ![Screenshot 2024-03-17 113351](https://github.com/Jenishajustin/Histogram-of-an-images/assets/119405070/b4d3010d-eabc-44bc-bbac-e62c3e6d069b)
